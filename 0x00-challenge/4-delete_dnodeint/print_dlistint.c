@@ -1,4 +1,3 @@
-print_dlistint.c
 #include <stdio.h>
 #include "lists.h"
 

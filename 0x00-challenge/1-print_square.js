@@ -1,4 +1,3 @@
-1-print_square.js
 #!/usr/bin/node
 /*
     Print a square with the character #

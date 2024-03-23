@@ -1,4 +1,3 @@
-delete_dnodeint_at_index.c
 #include "lists.h"
 #include <stdlib.h>
 
